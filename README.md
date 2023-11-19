@@ -8,7 +8,7 @@ A new Flutter Game.
 - Make sure you have Flutter installed. If not, follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
 ### Clone the Repository
-git clone https://github.com/your-username/flutter-spinning-wheel-app.git
+git clone https://github.com/Tanay610/roulette_game.git
 
 cd ruolette_game
 
